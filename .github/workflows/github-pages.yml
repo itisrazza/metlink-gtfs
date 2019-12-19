@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: 
+      - data
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    
+    - name: Publish to GitHub Pages
+      uses: tsunematsu21/actions-publish-gh-pages@v1.0.0
+      with:
+        # The name of the remote branch that publishing source for GitHub Pages site
+        branch: data
+        # The personal access token that authorize repo access
+        token: ${{ secrets.GH_TOKEN }}
