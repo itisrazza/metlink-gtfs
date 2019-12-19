@@ -14,7 +14,8 @@ git add .
 git commit -m "`date -u -Iseconds`"
 
 # upload
-GIT_ASKPASS=../git-pass.sh git push -u origin data
+GIT_ASKPASS=../git-pass.sh git push origin data
+GIT_ASKPASS=../git-pass.sh git push origin gh-pages
 
 popd
 
