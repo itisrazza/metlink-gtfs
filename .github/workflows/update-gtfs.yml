@@ -18,4 +18,6 @@ jobs:
       - name: Do all of it
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: bash do-it.sh
+        run: |
+          cd $GITHUB_WORKSPACE
+          bash do-it.sh
