@@ -2,6 +2,9 @@ name: Update Metlink GTFS
 on:
   schedule:
   - cron: '*/15 * * * *'
+  push:
+    branches:
+      - scripts
 jobs:
   gtfs-update:
     name: Update GTFS data
