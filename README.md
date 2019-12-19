@@ -1,7 +1,9 @@
 This repository contains the Metlink GTFS data from their website, alongside the hash of the ZIP file and the date when the data last got updated.
 
-This is the `data` branch, where the data resides (it's also the default branch for easy inclusion in projects). The scripts and configuration files reside in the `scripts` branch.
+This branch contains the contents of the zip file, plus the zip's hash and date and time when it was last updated. The shell scripts doing the heavy lifting in the background can be found in the [`scripts`](https://github.com/thegreatrazz/metlink-gtfs/tree/scripts) branch.
 
-I've setup GitHub Actions to update this repository every 6 hours if need be. The time of update will be in the commit message and [`last-updated.txt`](last-updated.txt). The SHA256 sum of the zip file is in [`hash.sha256`](hash.sha256).
+GitHub Actions is set up to check for changes every 6 hours and update the repository if need be. This repository also has GitHub Pages configured so you can access files like so: https://thegreatrazz.github.io/metlink-gtfs/routes.txt
 
-You can also access the files directly through HTTP by going to https://thegreatrazz.github.io/metlink-gtfs.
+[GitHub Repository](https://github.com/thegreatrazz/metlink-gtfs) &middot; [Metlink GTFS](https://www.metlink.org.nz/customer-services/general-transit-file-specification/) &middot; [GTFS Reference](https://developers.google.com/transit/gtfs/reference)
+
+Thanks to Metlink for ~~their amazing public transport~~ sharing their machine-readable transit information.
