@@ -1,4 +1,4 @@
-name: CI
+name: GitHub Pages
 
 on:
   push:
@@ -12,11 +12,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+      name: Fetch data
     
-    - name: Publish to GitHub Pages
-      uses: tsunematsu21/actions-publish-gh-pages@v1.0.0
-      with:
-        # The name of the remote branch that publishing source for GitHub Pages site
-        branch: data
-        # The personal access token that authorize repo access
-        token: ${{ secrets.GH_TOKEN }}
+    - name: Deploy to GitHub Pages
+      uses: maxheld83/ghpages@v0.2.1
