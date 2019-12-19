@@ -7,9 +7,12 @@ jobs:
     name: Update GTFS data
     runs-on: ubuntu-latest
     steps:
-    - name: Do all of it
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      run: |
-        git checkout scripts
-        do-it.sh
+      - name: Fetch the scripts
+        uses: actions/checkout@v1
+        with:
+          branch: scripts
+        
+      - name: Do all of it
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: bash do-it.sh
