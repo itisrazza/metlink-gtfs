@@ -21,6 +21,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           cd $GITHUB_WORKSPACE
-          ls
-          ls $GITHUB_WORKSPACE
+          git checkout scripts
           bash do-it.sh
