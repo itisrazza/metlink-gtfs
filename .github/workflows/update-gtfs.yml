@@ -1,4 +1,5 @@
 name: Update Metlink GTFS
+
 on:
   schedule:
   - cron: '*/15 * * * *'
@@ -6,10 +7,12 @@ on:
     branches:
       - data
       - scripts
+        - 
 jobs:
   gtfs-update:
     name: Update GTFS data
     runs-on: ubuntu-latest
+    
     steps:
       - name: Fetch the scripts
         uses: actions/checkout@v1
