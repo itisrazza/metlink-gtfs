@@ -1,0 +1,7 @@
+
+# joe backup files
+*~
+*.swp
+
+# work files
+metlink*

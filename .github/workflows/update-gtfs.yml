@@ -1,0 +1,13 @@
+name: Update Metlink GTFS
+on:
+  schedule:
+  - cron: '*/15 * * * *'
+jobs:
+  gtfs-update:
+    name: Update GTFS data
+    runs-on: ubuntu-latest
+    steps:
+    - name: Do all of it
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: do-it.sh
