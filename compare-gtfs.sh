@@ -6,3 +6,6 @@ sha256sum -c "$GIT_CLONE/hash.sha256" < "$GTFS_ZIP_NAME" && exit 1
 
 # calculate a new checksum
 sha256sum < "$GTFS_ZIP_NAME" > "$GIT_CLONE/hash.sha256"
+
+# dump the new time
+date -u -Iseconds > "$GIT_CLONE/last-updated.txt"
