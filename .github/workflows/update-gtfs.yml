@@ -4,6 +4,7 @@ on:
   - cron: '*/15 * * * *'
   push:
     branches:
+      - data
       - scripts
 jobs:
   gtfs-update:
@@ -20,4 +21,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           cd $GITHUB_WORKSPACE
+          ls
+          ls $GITHUB_WORKSPACE
           bash do-it.sh
