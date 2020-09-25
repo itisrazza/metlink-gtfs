@@ -1,4 +1,4 @@
-stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone
 7336,7336,Queens Drive at Sutherland Road,,-41.3326276,174.7908898,3,,0,,Pacific/Auckland
 9008,9008,Cuba Street at Weltec,,-41.22445726,174.8863581,4,,0,,Pacific/Auckland
 7037,7037,Broadway at Bentinck Avenue,,-41.32410641,174.8230364,3,,0,,Pacific/Auckland
@@ -778,7 +778,6 @@ EPUN,EPUN,Epuni Station,,-41.20750643,174.93031151,5,,0,,Pacific/Auckland
 6533,6533,Waipapa Road at Kainui Road,,-41.3025162,174.7984266,2,,0,,Pacific/Auckland
 1861,1861,Te Ore Ore Road (near 15),,-40.94554346,175.6719311,14,,0,,Pacific/Auckland
 9905,9905,Wainuiomata Shopping Centre at Library,,-41.26202439,174.9454525,5,,0,,Pacific/Auckland
-6274,6274,Para Street opposite Holy Cross School,,-41.31731881999999,174.8193826,3,,0,,Pacific/Auckland
 7065,7065,Marine Parade opposite Awa Road,,-41.31284016,174.8291734,3,,0,,Pacific/Auckland
 1382,1382,Rimu Road (near 7),,-40.92394137,174.9949981,9,,0,,Pacific/Auckland
 1586,1586,Sylvan Avenue at Belvedere Avenue,,-40.86880689,175.06066112,10,,0,,Pacific/Auckland
@@ -2499,7 +2498,6 @@ SOLW,SOLW,Solway Station,,-40.95338889,175.62551783,14,,0,,Pacific/Auckland
 2160,2160,Warspite Avenue at Flora Street,,-41.13741364,174.8718279,5,,0,,Pacific/Auckland
 8919,8919,Hine Road (near 68),,-41.275267,174.9612475,5,,0,,Pacific/Auckland
 3828,3828,Nalanda Crescent at Rajkot Terrace,,-41.23411658,174.7948796,3,,0,,Pacific/Auckland
-8020,8020,Jessie Street at The Esplanade (near 7),,-41.23098641,174.8891707,4,,0,,Pacific/Auckland
 1734,1734,Aotaki Street at Warenga Road,,-40.75580252,175.1388608,13,,0,,Pacific/Auckland
 1264,1264,Gray Avenue at Callender Terrace (near 36),,-40.89244143,174.9934577,9,,0,,Pacific/Auckland
 4415,4415,Calcutta Street (near 39),,-41.25115445,174.788185,3,,0,,Pacific/Auckland
@@ -2824,7 +2822,6 @@ TAKA2,TAKA2,Takapu Road Station,,-41.18529832,174.82825794,4,,0,TAKA,
 6071,6071,Karaka Bay Road (near 499),,-41.29789894999999,174.8322914,3,,0,,Pacific/Auckland
 7213,7213,Brougham Street at Elizabeth Street,,-41.29674489,174.78527026,1,,0,,Pacific/Auckland
 5498,5498,Thorndon Quay - Capital Gateway,,-41.27629691,174.781588,1,,0,,Pacific/Auckland
-6264,6264,Nevay Road (near 170),,-41.29987372,174.8289304,3,,0,,Pacific/Auckland
 8208,8208,Fairway Drive at Avalon Park,,-41.19529903,174.9336966,5,,0,,Pacific/Auckland
 9009,9009,Cuba Street at Bouverie Street,,-41.22064081,174.8883957,4,,0,,Pacific/Auckland
 9842,9842,Mahina Bay (near 445),,-41.27021589999999,174.9080898,5,,0,,Pacific/Auckland
@@ -2882,6 +2879,10 @@ RARO,RARO,Raroa Station,,-41.23225739,174.80174787,3,,0,,Pacific/Auckland
 8544,8544,Rimutaka Street at Merton Street,,-41.12906593,175.03673505,7,,0,,Pacific/Auckland
 8285,8285,Naenae Road at Rata Street (near 248),,-41.19844773,174.9552548,5,,0,,Pacific/Auckland
 2920,2920,Pikarere Street (near 3),,-41.11360957,174.83325727,5,,0,,Pacific/Auckland
+8020,8020,Jessie Street at The Esplanade (near 11),,-41.2307,174.88932,4,,0,,Pacific/Auckland
+7274,7274,Para Street opposite Holy Cross School,,-41.316936,174.819422,3,,0,,Pacific/Auckland
+6274,6274,Para Street at Holy Cross School,,-41.31731881999999,174.8193826,3,,0,,Pacific/Auckland
+6264,6264,Nevay Road (near 170),,-41.29987372,174.8289304,3,,0,,Pacific/Auckland
 PARA,,Paraparaumu Station,,-40.916650345,175.007175645,,,1,,Pacific/Auckland
 REDW,,Redwood Station,,-41.175645949999996,174.827051305,,,1,,Pacific/Auckland
 TAWA,,Tawa Station,,-41.1693215,174.828352,,,1,,Pacific/Auckland
