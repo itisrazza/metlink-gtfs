@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Greater Wellington Regional Council,http://www.metlink.org.nz,en,20201115,20210116,School Term Blocks_20201028-171935
+Greater Wellington Regional Council,http://www.metlink.org.nz,en,20201220,20210130,Holiday Blocks_20201202-102139
