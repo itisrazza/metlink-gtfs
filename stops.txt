@@ -3082,3 +3082,4 @@ KHAN,KHAN,Khandallah Station,KhandallahStn,-41.24267127,174.7934371,3,,1,,Pacifi
 PARA,PARA,Paraparaumu Station,ParaparaumuStn,-40.916650345,175.007175645,9,,1,,Pacific/Auckland
 PLIM,PLIM,Plimmerton Station,PlimmertonStn,-41.083897475,174.867162465,6,,1,,Pacific/Auckland
 TREN,TREN,Trentham Station,TrenthamStn,-41.13787778999999,175.03843415,7/6,,1,,Pacific/Auckland
+1003,1003,Paraparaumu Station - Stop C,ParaparaumuStn-C,-40.91646999999999,175.00724,9,,0,,Pacific/Auckland
