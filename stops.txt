@@ -2885,3 +2885,200 @@ KHAN,KHAN,Khandallah Station,KhandallahStn,-41.24267127,174.7934371,3,,1,,Pacifi
 PARA,PARA,Paraparaumu Station,ParaparaumuStn,-40.916650345,175.007175645,9,,1,,Pacific/Auckland
 PLIM,PLIM,Plimmerton Station,PlimmertonStn,-41.083897475,174.867162465,6,,1,,Pacific/Auckland
 TREN,TREN,Trentham Station,TrenthamStn,-41.13787778999999,175.03843415,7/6,,1,,Pacific/Auckland
+1515,1515,Waikanae School (school stop),WaikanaeSch (sch),-40.87679825700455,175.06897925607072,10,,0,,Pacific/Auckland
+3921,3921,Redwood School (school stop),RedwoodSch (sch),-41.181721,174.821667,4,,0,,Pacific/Auckland
+1900,1900,Martinborough - Kitchener Street (near 14),Martinborough-KitchenerSt (14),-41.21699685,175.4582321,13,,0,,Pacific/Auckland
+9859,9859,San Antonio School (hail and ride) (school stop),SanAntonioSch (h/r) (sch),-41.293577,174.894997,6,,0,,Pacific/Auckland
+9049,9049,Belmont Flat - Western Hutt Road (northbound),BelmontFlt-WesternHuttRd (n),-41.18607212,174.9360481,5,,0,,Pacific/Auckland
+9138,9138,Harbour View Road at Panorama Grove (school stop),HarbourViewRd at Panorama (sch),-41.20279,174.89532,4,,0,,Pacific/Auckland
+3909,3909,Takapu Road opposite Bing Lucas Drive (school stop),TakapuRd opp BingLucas (sch),-41.18156,174.834726,4,,0,,Pacific/Auckland
+2505,2505,Mana View Road (hail and ride) (school stop),ManaViewRd (h/r) (sch),-41.094574,174.872189,6,,0,,Pacific/Auckland
+2613,2613,Penryn Drive (near 9) (hail and ride) (school stop),PenrynDr (9) (sch),-41.09130616,174.87386118,6,,0,,Pacific/Auckland
+6939,6939,Sinclair Park - Houghton Bay Road (school stop),SinclairPk-HoughtonBayRdv (sch),-41.33073411,174.7852217,3,,0,,Pacific/Auckland
+6010,6010,Basin Reserve (school stop),BasinRes (sch),-41.30122809954607,174.78140125466376,1,,0,,Pacific/Auckland
+2612,2612,Mana View Road opposite Penryn Drive (hail and ride) (school stop),ManaViewRd opp PenrynDr (h/r) (sch),-41.0916019,174.87219818,6,,0,,Pacific/Auckland
+6139,6139,Severn Street (near 121) (school stop),SevernSt (121) (sch),-41.34376785,174.7635861,3,,0,,Pacific/Auckland
+3907,3907,Jamaica Drive at Calypso Street (hail and ride) (school stop),JamaicaDr at Calypso (h/r) (sch),-41.189024,174.834912,4,,0,,Pacific/Auckland
+9877,9877,Tirohanga Road at Matuhi Street (hail and ride) (school stop),TirohangaRd at Matuhi (h/r) (sch),-41.19694564,174.9050416,4,,0,,Pacific/Auckland
+8697,8697,Gillespies Road (near 44) (school stop),GillespiesRd (44) (sch),-41.08992127,175.1028761,7,,0,,Pacific/Auckland
+2032,2032,Aotea College - Stop B (school stop),AoteaCollege-B (sch),-41.12580685537925,174.85379353125094,5,,0,,Pacific/Auckland
+2628,2628,Mana View Road (near 46) (hail and ride) (school stop),ManaViewRd (46) (h/r) (sch),-41.09440436,174.87277743,6,,0,,Pacific/Auckland
+8699,8699,Gillespies Road (Edmund Lomas Grove) (school stop),GillespiesRd (EdmundLomasGrv) (sch),-41.09115578,175.10635541,7,,0,,Pacific/Auckland
+6011,6011,Wellington College (school grounds),WgtnColl (sch grds),-41.303073,174.782552,1/2,,0,,Pacific/Auckland
+7343,7343,Coutts Street at Rongotai College (school stop),CouttsSt at RongotaiColl (sch),-41.32173654,174.8019421,3,,0,,Pacific/Auckland
+9850,9850,Muritai School - Oroua Street,MuritaiSch-OrouaSt,-41.29139567,174.8964065,6,,0,,Pacific/Auckland
+5503,5503,Lambton Quay - Old Govt Buildings (school stop),LambtonQy-OldGovt (sch),-41.27925265999999,174.77780606,1,,0,,Pacific/Auckland
+3959,3959,Tawa Intermediate School and College (school stop),TawaIntSch and Coll (sch),-41.16408154,174.8308663,4,,0,,Pacific/Auckland
+3917,3917,Jamaica Drive at Grenada North Park (school stop),JamaicaDr at GrenadaNPk (sch),-41.186237,174.836814,4,,0,,Pacific/Auckland
+1177,1177,Paraparaumu College (School Stop),ParaparaumuColl (Sch Stp),-40.889356,175.004571,9,,0,,Pacific/Auckland
+2501,2501,Papakowhai Road at Romesdale Road (hail and ride) (school stop),PapakowhaiRd at Romesdale (h/r) (sch),-41.114176,174.86087,5,,0,,Pacific/Auckland
+9739,9739,Marine Drive (near 139) (school stop),MarineDr (139) (sch),-41.254562,174.908692,5,,0,,Pacific/Auckland
+6136,6136,Humber Street at The Parade (school stop),HumberSt at Parade (sch),-41.34050473,174.7707884,3,,0,,Pacific/Auckland
+2622,2622,Pope Street (near 3) (hail and ride) (school stop),PopeSt (3) (h/r) (sch),-41.08730666,174.87417884,6,,0,,Pacific/Auckland
+4333,4333,Marsden School - Vera Street (school stop),MarsdenSch-VeraSt (sch),-41.285701,174.745962,3,,0,,Pacific/Auckland
+8120,8120,St Oran's College (school stop),StOransColl (sch),-41.20406461,174.9158266,4,,0,,Pacific/Auckland
+1003,1003,Paraparaumu Station - Stop C,ParaparaumuStn-C,-40.91646999999999,175.00724,9,,0,,Pacific/Auckland
+4435,4435,Simla Crescent Station (opposite),SimlaCresStn (opp),-41.247089,174.784399,3,,0,,Pacific/Auckland
+1963,1963,Masterton Intermediate School (opposite) (school stop),MastertonIntSch (opp) (sch),-40.957437,175.640763,14,,0,,Pacific/Auckland
+9141,9141,Tirohanga Road near Onehuka Road (hail and ride) (school stop),TirohangaRd nr Onehuka (h/r) (sch),-41.199907,174.908208,4,,0,,Pacific/Auckland
+8607,8607,Topaz Street at Pearl Grove,TopazSt at Pearl,-41.0962525,175.1112937,7,,0,,Pacific/Auckland
+9875,9875,Viewmont Drive (near 89) (school stop),ViewmontDr (89) (sch),-41.19968,174.90066,4,,0,,Pacific/Auckland
+1203,1203,Our Lady of Kapiti School (school grounds),OLOKS (sch grds),-40.907065,174.996571,9,,0,,Pacific/Auckland
+5139,5139,Cardinal McKeefry School - Wilton Road (opposite),CardinalMcKeefrySch-WiltonRd (opp),-41.27524886,174.7560091,2,,0,,Pacific/Auckland
+7137,7137,Severn Street at Moselle Street (school stop),SevernSt at Moselle (sch),-41.34082259,174.7676896,3,,0,,Pacific/Auckland
+3919,3919,Jamaica Drive opposite Grenada North Park (school stop),JamaicaDr opp GrenadaNPk (sch),-41.18600099999999,174.836402,4,,0,,Pacific/Auckland
+3836,3836,Haumia Street at Fisher Street (school stop),HaumiaSt at Fisher (sch),-41.228582,174.79928,3,,0,,Pacific/Auckland
+7150,7150,Happy Valley Road (near 85) (school stop),HappyVlyRd (85) (sch),-41.34013523,174.7601364,3,,0,,Pacific/Auckland
+9900,9900,St Claudine Thevenet School (school stop),StClaudineThevenetSch (sch),-41.25748263,174.93748969,5,,0,,Pacific/Auckland
+2199,2199,Driver Crescent (school stop),DriverCres-school,-41.14098383999999,174.87275774,5,,0,,Pacific/Auckland
+1576,1576,Ngarara Road at Horopito Road (school stop),NgararaRd at Horopito (sch),-40.87826720999999,175.0517764,10,,0,,Pacific/Auckland
+9139,9139,Tirohanga Road at Ardal Grove (school stop),TirohangaRd at Ardal (sch),-41.197803,174.90432,4,,0,,Pacific/Auckland
+2742,2742,Paremata School (school stop),ParemataSch (sch),-41.107233,174.868603,6/5,,0,,Pacific/Auckland
+3913,3913,Jamaica Drive (near 17) (school stop),JamaicaDr (17) (sch),-41.181429,174.836826,4,,0,,Pacific/Auckland
+2503,2503,Papakowhai Road (hail and ride) (school stop),PapakowhaiRd (h/r) (sch),-41.11128,174.86179,5,,0,,Pacific/Auckland
+2547,2547,The Companionway at Discovery Drive (school stop),TheCompanionway at Discovery (sch),-41.111852,174.889744,6,,0,,Pacific/Auckland
+9697,9697,Gillespies Road (near 47) (school stop),GillespiesRd (47) (sch),-41.08982691,175.1031112,7,,0,,Pacific/Auckland
+2515,2515,Sunset Parade (hail and ride) (school stop),SunsetPde (h/r) (sch),-41.08105047,174.86374007,6,,0,,Pacific/Auckland
+9876,9876,Tirohanga Road at Arahiwi Grove (hail and ride) (school stop),TirohangaRd at Arahiwi (h/r),-41.19811281,174.90153825,4,,0,,Pacific/Auckland
+1519,1519,Kapanui School (school stop),KapanuiSch (sch),-40.87417721,175.05506583,10,,0,,Pacific/Auckland
+3925,3925,Duncan Street opposite Tawa College (school stop),Tawa Intermediate-opp,-41.16387867302015,174.8309141838427,4,,0,,Pacific/Auckland
+9620,9620,Plateau School (school stop),PlateauSch (sch),-41.093005,175.132237,8,,0,,Pacific/Auckland
+1981,1981,Wairarapa College opposite (school stop),WairarapaColl (opp) (sch),-40.95013,175.645817,14,,0,,Pacific/Auckland
+9248,9248,Avalon Intermediate School (school stop),AvalonIntSch (sch),-41.188981,174.950958,5,,0,,Pacific/Auckland
+7147,7147,Happy Valley Road (near 163) (school stop),HappyVlyRd (163) (sch),-41.33574518999999,174.7581114,3,,0,,Pacific/Auckland
+4305,4305,Gipps Street at Shirley Street (school stop),GippsSt at Shirley (sch),-41.2874644,174.7464251,3,,0,,Pacific/Auckland
+1537,1537,Huiawa Street at Heperi Street (school stop),HuiawaSt at Heperi (sch),-40.861827,175.028619,10,,0,,Pacific/Auckland
+6090,6090,Scots College (school grounds),ScotsColl (sch grds),-41.32747976317036,174.81843040518064,3,,0,,Pacific/Auckland
+6122,6122,South Wellington Intermediate School (school stop),SWIS (sch),-41.31787467,174.7780607,2,,0,,Pacific/Auckland
+8074,8074,Cypress Drive near Wisteria Drive (hail and ride) (school stop),CypressDr nr Wisteria (h/r) (sch),-41.206745,174.883909,4,,0,,Pacific/Auckland
+0006,0006,Fare Zone Boundary - Ruamahanga River Bridge (Kokotau Road),FareZoneBoundary-RuamahangaRiverBr (Kokotau Rd),-41.09805,175.56877,11,,0,,Pacific/Auckland
+2625,2625,Pendennis Point near St Ives Drive (hail and ride) (school stop),PendennisPt nr StIves (h/r) (sch),-41.09051753,174.87828964,6,,0,,Pacific/Auckland
+9992,9992,Cnr Ponatahi Road and Kokotau Road (hail and ride) (school stop),Cnr PonatahiRd-KokotauRd (h/r) (sch),-41.103783,175.571161,13,,0,,Pacific/Auckland
+1945,1945,St Matthew's College (school stop),StMatthewsColl (sch),-40.94511099999999,175.65013,14,,0,,Pacific/Auckland
+8075,8075,Cedar Street near Aspen Grove (hail and ride) (school stop),CedarSt nr Aspen (h/r) (sch),-41.206498,174.881374,4,,0,,Pacific/Auckland
+6150,6150,Happy Valley Road (near 88) (school stop),HappyVlyRd (88) (sch),-41.33994577,174.7602561,3,,0,,Pacific/Auckland
+8698,8698,Gillespies Road (near 70) (school stop),GillespiesRd (70) (sch),-41.09059795999999,175.1052788,7,,0,,Pacific/Auckland
+3899,3899,Tawa School (school stop),TawaSch (sch),-41.1730678270898,174.8255356697058,4,,0,,Pacific/Auckland
+2751,2751,Paremata School (opposite) (school stop),ParemataSch (opp) (sch),-41.107129,174.868957,6/5,,0,,Pacific/Auckland
+8156,8156,Sacred Heart College - Hautana Street (school stop),SacredHeartColl-HautanaSt (sch),-41.21464851999999,174.9076664,4,,0,,Pacific/Auckland
+1976,1976,Colombo Road at Johnstone Street (school stop),ColomboRd at Johnstone (sch),-40.958408,175.665385,14,,0,,Pacific/Auckland
+8079,8079,Mulberry Street (near 81) (school stop),MulberrySt (81) (sch),-41.209515,174.886946,4,,0,,Pacific/Auckland
+2198,2198,Porirua College - Driver Crescent (school stop),Porirua College,-41.14125003402497,174.87297334880418,5,,0,,Pacific/Auckland
+9607,9607,Topaz Street opposite Pearl Grove,TopazSt opp Pearl,-41.09616247999999,175.1112908,7,,0,,Pacific/Auckland
+1955,1955,Masterton Intermediate School (school stop),MastertonIntSch (sch),-40.95724899999999,175.640656,14,,0,,Pacific/Auckland
+3837,3837,Raroa Intermediate - Haumia Street (school stop),RaroaInt-HaumiaSt (sch),-41.229616,174.801133,3,,0,,Pacific/Auckland
+8049,8049,Belmont Flat - Western Hutt Road (southbound),BelmontFlt-WesternHuttRd (s),-41.18699643,174.9346445,5,,0,,Pacific/Auckland
+1578,1578,Ngarara Road at Kohekohe Road (near 26) (school stop),NgararaRd at KoheKohe (26) (sch),-40.87629084999999,175.051478,10,,0,,Pacific/Auckland
+2627,2627,Penryn Drive (near 4) (hail and ride) (school stop),PenrynDr (4) (h/r) (sch),-41.09154556,174.87309508,6,,0,,Pacific/Auckland
+3938,3938,Bishop Viard College (school grounds),BishopViardColl (sch grds),-41.14068090597646,174.8398677587937,5,,0,,Pacific/Auckland
+3808,3808,Raroa Intermediate - Haumia Street,RaroaInt-HaumiaSt,-41.22987386,174.80121708,3,,0,,Pacific/Auckland
+5104,5104,St Mary's College - Hill Street (school stop North),StMarys-HillSt (sch N),-41.276826,174.775633,1,,0,,Pacific/Auckland
+8574,8574,Ward Street near Heretaunga College (school stop),WardSt nr HeretaungaColl (sch),-41.12763144,175.05417229,7,,0,,Pacific/Auckland
+9429,9429,Sutherland Avenue near St Brendan's School (school stop),Sutherland Ave near StBrendan'sSch (sch),-41.139481,175.031945,6,,0,,Pacific/Auckland
+6008,6008,Wellington East Girls' College - Ellice Street (school stop),WEGC-ElliceSt (sch),-41.301056,174.784838,1/2,,0,,Pacific/Auckland
+9993,9993,Parkvale Hall Carters Line (hail and ride),ParkvaleHall CartersLine (h/r),-41.056399,175.553642,13,,0,,Pacific/Auckland
+8076,8076,Cedar Street near Mulberry Street (hail and ride) (school stop),CedarSt nr Mulberry (h/r) (sch),-41.210115,174.881095,4,,0,,Pacific/Auckland
+8577,8577,Oxford Crescent School - Kowhai Avenue (school stop),OxfordCresSch-KowhaiAve (sch),-41.12011056,175.07351147,7,,0,,Pacific/Auckland
+8428,8428,Hutt International Boys' School (school stop),HIBS (sch),-41.140372,175.036232,6,,0,,Pacific/Auckland
+6030,6030,Caledonia Street (near 9) (school stop),CaledoniaSt (9) (sch),-41.32088319,174.8104015,3,,0,,Pacific/Auckland
+7943,7943,Rintoul Street at Luxford Street (school stop),RintoulSt at Luxford (sch),-41.32022108999999,174.7777661,2,,0,,Pacific/Auckland
+2511,2511,Grays Road (hail and ride) (school stop),GraysRd (h/r) (sch),-41.085301,174.871915,6,,0,,Pacific/Auckland
+8461,8461,St Patrick's College (school stop),StPatrick'sColl (sch),-41.145608,175.012234,6,,0,,Pacific/Auckland
+9199,9199,Hutt Valley High School (school stop),HVHS (sch),-41.21581765,174.9023326,4,,0,,Pacific/Auckland
+6147,6147,Happy Valley Road (opposite 165) (school stop),HappyVlyRd (opp 165) (sch),-41.33565516,174.758109,3,,0,,Pacific/Auckland
+9200,9200,Naenae Intermediate School - Walters Street (school stop),NaenaeIntSch-WaltersSt (sch),-41.19610999999999,174.941666,5,,0,,Pacific/Auckland
+9197,9197,Sacred Heart College - Laings Road (school stop),SacredHeartColl-LaingsRd (sch),-41.21494032999999,174.9063628,4,,0,,Pacific/Auckland
+6137,6137,Severn Street (near 55) (school stop),SevernSt (55) (sch),-41.34128194,174.7671045,3,,0,,Pacific/Auckland
+9048,9048,Kelson Layby (school stop),KelsonLayby (sch),-41.189884,174.92932,5,,0,,Pacific/Auckland
+2583,2583,Penryn Drive near St Ives Drive (hail and ride) (school stop),PenrynDr nr StIves (h/r) (sch),-41.091911,174.878091,6,,0,,Pacific/Auckland
+3901,3901,Woodburn Drive (hail and ride) (school stop),WoodburnDr (h/r) (sch),-41.173519,174.844769,4,,0,,Pacific/Auckland
+4306,4306,Gipps Street at Cooper Street (school stop),GippsSt at Cooper (sch),-41.28803357999999,174.7445295,3,,0,,Pacific/Auckland
+2031,2031,Aotea College - Stop A (school stop),AoteaCollege-A (sch),-41.126356,174.854336,5,,0,,Pacific/Auckland
+6031,6031,Caledonia Street at Hobart Street (school stop),CaledoniaSt at Hobart (sch),-41.32147393,174.8129269,3,,0,,Pacific/Auckland
+5396,5396,Karori Mall - Beauchamp Street (school stop),KaroriMall-BeauchampSt (sch),-41.28507667,174.73698628,3,,0,,Pacific/Auckland
+7138,7138,Severn Street at Wye Street (school stop),SevernSt at Wye (sch),-41.34249272,174.7645078,3,,0,,Pacific/Auckland
+2765,2765,The Companionway at Cannon Lane (school stop),TheCompanionway at Cannon (sch),-41.11381999999999,174.89071,6,,0,,Pacific/Auckland
+2535,2535,Truro Road (hail and ride) (school stop),TruroRd (h/r) (sch),-41.09091999999999,174.874789,6,,0,,Pacific/Auckland
+2610,2610,Mana View Road (near 3) (hail and ride) (school stop),ManaViewRd (3) (h/r) (sch),-41.09500991,174.86952616,6,,0,,Pacific/Auckland
+8080,8080,Miromiro Road at Normandale Road (school stop),MiromiroRd at Normandale (sch),-41.208008,174.889908,4,,0,,Pacific/Auckland
+7030,7030,Caledonia Street (near 10) (school stop),CaledoniaSt (10) (sch),-41.3209751,174.8102845,3,,0,,Pacific/Auckland
+2616,2616,Truro Road at Pope Street (hail and ride) (school stop),TruroRd at Pope (h/r) (sch),-41.08943316,174.8735809,6,,0,,Pacific/Auckland
+7149,7149,Happy Valley Road opposite Owhiro Bay School (school stop),HappyVlyRd opp OwhiroBaySch (sch),-41.33851252,174.7597395,3,,0,,Pacific/Auckland
+9560,9560,Maidstone Intermediate School (school stop),MaidstoneIntSch (sch),-41.123059,175.05885,7,,0,,Pacific/Auckland
+7152,7152,Happy Valley Road (near 31) (school stop),HappyVlyRd (31) (sch),-41.34283235,174.7599753,3,,0,,Pacific/Auckland
+6151,6151,Happy Valley Road (near 70) (school stop),HappyVlyRd (70) (sch),-41.34093614999999,174.7602828,3,,0,,Pacific/Auckland
+6020,6020,Evans Bay Intermediate School (school stop),EBIS (sch),-41.31547648,174.7964621,2/3,,0,,Pacific/Auckland
+8972,8972,Wainuiomata Intermediate School (school stop),WainuiomataIntSch (sch),-41.253022,174.933295,5,,0,,Pacific/Auckland
+2316,2316,Hampshire Street (near 27) (school stop),HampshireSt (27) (sch),-41.143914,174.861076,5,,0,,Pacific/Auckland
+1518,1518,Ngarara Road at Kohekohe Road (near 25) (school stop),NgararaRd at KoheKohe (25) (sch),-40.87637664999999,175.051718,10,,0,,Pacific/Auckland
+8078,8078,Mulberry Street (near 52) (school stop),MulberrySt (52) (sch),-41.211979,174.884953,4,,0,,Pacific/Auckland
+2541,2541,Spinnaker Drive at Ayton Drive (school stop),SpinnakerDr at Ayton (sch),-41.10886699999999,174.889969,6,,0,,Pacific/Auckland
+9991,9991,Jellicoe Street near 22 (hail and ride),Jellicoe St nr 22 (h/r),-41.219279,175.458295,13,,0,,Pacific/Auckland
+6018,6018,Rongotai College (school grounds),RongotaiColl (sch grds),-41.322199,174.801372,3,,0,,Pacific/Auckland
+8546,8546,Upper Hutt College (school grounds),UpperHuttColl (sch grds),-41.12770574,175.0412256,7,,0,,Pacific/Auckland
+5103,5103,St Mary's College - Hill Street (school stop South),StMarys-HillSt (sch S),-41.276971,174.774992,1,,0,,Pacific/Auckland
+7148,7148,Happy Valley Road (near 137) (school stop),HappyVlyRd (137) (sch),-41.33735121,174.7591106,3,,0,,Pacific/Auckland
+7136,7136,Humber Street at The Parade (near 28) (School Stop),HumberSt at TheParade (28) (Sch),-41.34033,174.77112,3,,0,,Pacific/Auckland
+8605,8605,Gemstone Drive at Sapphire Grove (school stop),GemstoneDr at Sapphire (sch),-41.093984,175.109987,7,,0,,Pacific/Auckland
+1490,1490,Kapiti College (School Stop),KapitiColl (Sch Stp),-40.92132,174.98509,9,,0,,Pacific/Auckland
+9698,9698,Gillespies Road (near 73) (school stop),GillespiesRd (73) (sch),-41.09041792,175.1052731,7,,0,,Pacific/Auckland
+9498,9498,Dunns Street (near 3) (school stop),DunnsSt (3) (sch),-41.149768,175.012837,6,,0,,Pacific/Auckland
+4139,4139,Cardinal McKeefry School - Wilton Road,CardinalMcKeefrySch-WiltonRd,-41.27542347,174.756372,2,,0,,Pacific/Auckland
+9696,9696,Gillespies Road (near 7) (school stop),GillespiesRd (7) (sch),-41.08889529999999,175.0998671,7,,0,,Pacific/Auckland
+6082,6082,Devonshire Road (near 43) (school stop),DevonshireRd (43) (sch),-41.32132362,174.816746,3,,0,,Pacific/Auckland
+2517,2517,Moana Road (hail and ride) (school stop),MoanaRd (h/r) (sch),-41.07692999999999,174.861525,6,,0,,Pacific/Auckland
+6149,6149,Happy Valley Road near Owhiro Bay School (school stop),HappyVlyRd nr OwhiroBaySch (sch),-41.33860073,174.7598613,3,,0,,Pacific/Auckland
+1848,1848,Makoura College (school stop),MakouraColl (sch),-40.96116389,175.666383,14,,0,,Pacific/Auckland
+9695,9695,Akatarawa Road (near 201) (school stop),AkatarawaRd (201) (sch),-41.08937576,175.0982156,7,,0,,Pacific/Auckland
+7031,7031,Caledonia Street at Hobart Street (near 38) (school stop),CaledoniaSt at Hobart (38) (sch),-41.32156584,174.8128099,3,,0,,Pacific/Auckland
+1849,1849,Makoura College (opposite) (school stop),MakouraColl opp (Sch),-40.96152735988746,175.66520378073275,14,,0,,Pacific/Auckland
+1946,1946,Chanel College (hail and ride) (school stop),ChanelColl (h/r) (sch),-40.959578,175.654884,14,,0,,Pacific/Auckland
+2629,2629,Mana View Road (near 4) (hail and ride) (school stop),ManaViewRd (4) (h/r) (sch),-41.09539015,174.86967564,6,,0,,Pacific/Auckland
+5311,5311,St Mary's College - Hawkestone Street (school stop),StMarys-HawkestoneSt (sch),-41.27490199999999,174.77545,1,,0,,Pacific/Auckland
+9579,9579,Oxford Crescent School (school stop),OxfordCresSch (sch),-41.119952,175.07364,7,,0,,Pacific/Auckland
+9137,9137,Viewmont Drive near 5 (school stop),ViewmontDr (5) (sch),-41.202405,174.898853,4,,0,,Pacific/Auckland
+2543,2543,Discovery School - Spinnaker Drive (school stop),DiscoverySch-SpinnakerDr (sch),-41.11096899999999,174.888707,6,,0,,Pacific/Auckland
+2138,2138,Conclusion Street (near 167) (school stop),ConclusionSt (167) (sch),-41.11994798,174.87047374,5,,0,,Pacific/Auckland
+3839,3839,Onslow College (school grounds),OnslowColl (sch grds),-41.23011,174.79762,3,,0,,Pacific/Auckland
+8429,8429,St Brendan's School (opposite) (school stop),StBrendan'sSch (opp) (school stop),-41.139238,175.032449,6,,0,,Pacific/Auckland
+5140,5140,Curtis Street opposite Randwick Road (School Stop),Curtis opp Randwich (sch),-41.278999,174.755281,2,,0,,Pacific/Auckland
+2527,2527,St Theresa's School (school stop),StTheresa'sSch (sch),-41.08449338,174.8694493,6,,0,,Pacific/Auckland
+7247,7247,Park Road (near 99) (school stop),ParkRd (99) (sch),-41.31118343,174.8200482,3,,0,,Pacific/Auckland
+8696,8696,Gillespies Road (near 18) (school stop),GillespiesRd (18) (sch),-41.08915886,175.1002326,7,,0,,Pacific/Auckland
+2525,2525,Plimmerton School (school stop),PlimmertonSch (sch),-41.081001,174.866006,6,,0,,Pacific/Auckland
+8409,8409,Blue Mountains Road near Pinehaven Road (hail and ride) (school stop),BlueMtnsRd nr Pinehaven (h/r) (sch),-41.155,175.014415,6,,0,,Pacific/Auckland
+9499,9499,Silverstream School - Whitemans Road (opposite) (school stop),SilverstreamSch-WhitemansRd (opp) (sch),-41.148178,175.012026,6,,0,,Pacific/Auckland
+7151,7151,Happy Valley Road (near 71) (school stop),HappyVlyRd (71) (sch),-41.34084977,174.7600414,3,,0,,Pacific/Auckland
+9079,9079,Mulberry Street (near 80) (school stop),MulberrySt (80) (sch),-41.20997,174.887209,4,,0,,Pacific/Auckland
+1520,1520,Ngarara Road at Te Moana Road (school stop),NgararaRd at TeMoana (sch),-40.87889528,175.0519145,10,,0,,Pacific/Auckland
+9134,9134,Harbour View Road at Gaskill Grove (school stop),HarbourViewRd at Gaskill (sch),-41.20351823,174.90267226,4,,0,,Pacific/Auckland
+1559,1559,Rauparaha Street at Community Hall (school stop),RauparahaSt at CommHall (sch),-40.863563,175.026204,10,,0,,Pacific/Auckland
+7082,7082,Devonshire Road (near 42) (school stop),DevonshireRd (42) (sch),-41.32141176999999,174.8168679,3,,0,,Pacific/Auckland
+3905,3905,Takapu Road at Woodburn Drive (hail and ride) (school stop),TakapuRd at Woodburn (h/r) (sch),-41.17871499999999,174.838655,4,,0,,Pacific/Auckland
+6083,6083,Devonshire Road at Ira Street,DevonshireRd at Ira,-41.32127644,174.8197316,3,,0,,Pacific/Auckland
+9133,9133,Harbour View Road at City View Grove (school stop),HarbourViewRd at CityView (sch),-41.20300799999999,174.899601,4,,0,,Pacific/Auckland
+8077,8077,Mulberry Street (near 3) (school stop),MulberrySt (3) (sch),-41.209697,174.880773,4,,0,,Pacific/Auckland
+8050,8050,Belmont Flat - Owen Street North,BelmontFlt-OwenStN,-41.18309691,174.941564,5,,0,,Pacific/Auckland
+2531,2531,St Andrews Road at Grays Road,St AndrewsRd at GraysRd,-41.08500286730249,174.86878093671407,6,,0,,Pacific/Auckland
+3008,3008,St Brigid's School - Phillip Street (school stop),StBrigidsSch-PhillipSt (sch),-41.22251273,174.80185521,3,,0,,Pacific/Auckland
+8695,8695,Akatarawa Road (near 212) (school stop),AkatarawaRd (212) (sch),-41.0890992,175.098564,7,,0,,Pacific/Auckland
+2549,2549,"The Companionway opposite Cannon Lane (school stop) ",TheCompanionway opp Cabin (sch),-41.11397,174.89067,6,,0,,Pacific/Auckland
+1557,1557,Rauparaha Street at Tutere Street (school stop),RauparahaSt at Tutere (sch),-40.861992,175.0244,10,,0,,Pacific/Auckland
+6007,6007,Broadway at Kauri Street (school stop),Broadway at Kauri (sch),-41.325335,174.810401,3,,0,,Pacific/Auckland
+3927,3927,Hinau Street (near 3) (school stop),Hinau St Sch Stop,-41.16246879175546,174.83143218363995,4,,0,,Pacific/Auckland
+8103,8103,Eastern Hutt School (school stop),EasternHuttSch (sch),-41.207281,174.913264,4,,0,,Pacific/Auckland
+6262,6262,Nevay Road - Prison Gates (near 222),NevayRd-PrisonGates (222),-41.29696835,174.8291013,3,,0,,Pacific/Auckland
+9580,9580,Upper Hutt Station - Stop C,UpperHuttStn-C,-41.12568501,175.07137275,7,,0,,Pacific/Auckland
+2617,2617,Pope Street (near 10) (hail and ride) (school stop),PopeSt (10) (h/r) (sch),-41.08708133999999,174.87387987,6,,0,,Pacific/Auckland
+2623,2623,Truro Road (near 1) (hail and ride) (school stop),TruroRd (1) (h/r) (sch),-41.08940499,174.87395461,6,,0,,Pacific/Auckland
+8081,8081,Mulberry Street (near 59) (school stop),MulberrySt (59) (sch),-41.211041,174.884485,4,,0,,Pacific/Auckland
+7944,7944,Rintoul Street at Blythe Street (school stop),RintoulSt at Blythe (sch),-41.32274389,174.7777152,2,,0,,Pacific/Auckland
+8152,8152,Hutt Intermediate School,HuttIntSch,-41.21516788,174.9143614,4,,0,,Pacific/Auckland
+2619,2619,Grays Road (near 4) (hail and ride) (school stop),GraysRd (4) (h/r) (sch),-41.08578573,174.86917113,6,,0,,Pacific/Auckland
+1183,1183,Otaihanga Road near Greendale Drive (hail and ride) (school stop),OtaihangaRd nr Greendale (h/r) (sch),-40.89129094,175.02864,9,,0,,Pacific/Auckland
+5102,5102,Queen Margaret College (school stop),QueenMargaretColl (sch),-41.27154354999999,174.7802649,1,,0,,Pacific/Auckland
+2529,2529,Plimmerton Boating Club (hail and ride) (school stop),PlimmertonBoatingClub (h/r) (sch),-41.07319171999999,174.85570392,6,,0,,Pacific/Auckland
+7919,7919,Wellington High School (school stop),WgtnHighSch (sch),-41.3016,174.774068,1/2,,0,,Pacific/Auckland
+3915,3915,Grenada North - Nassau Avenue (school stop),GrenadaN-NassauAve (sch),-41.18930318999999,174.836984,4,,0,,Pacific/Auckland
+6152,6152,Happy Valley Road (near 30) (school stop),HappyVlyRd (30) (sch),-41.34292056,174.7600972,3,,0,,Pacific/Auckland
+1535,1535,Huiawa Street at Hemara Street (school stop),HuiawaSt at Hemara (sch),-40.864427,175.027808,10,,0,,Pacific/Auckland
