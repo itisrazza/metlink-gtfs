@@ -2798,7 +2798,7 @@ NGAI1,NGAI1,Ngaio Station,NgaioStn,-41.25099113999999,174.77190448,3,,0,NGAI,
 9703,9703,Parkside Road at Hutt Park Road,ParksideRd at HuttPark,-41.23672139,174.9073537,4,,0,,Pacific/Auckland
 7272,7272,Awa Road at Para Street,AwaRd at ParaSt,-41.31315,174.82351,3,,0,,Pacific/Auckland
 7140,7140,Frobisher Street (near 24),FrobisherSt (24),-41.34216004999999,174.7627061,3,,0,,Pacific/Auckland
-2549,2549,The Companionway opposite Cannon Lane (school stop) ,TheCompanionway opp Cabin (sch),-41.11397,174.89067,6,,0,,Pacific/Auckland
+2549,2549,"The Companionway opposite Cannon Lane (school stop) ",TheCompanionway opp Cabin (sch),-41.11397,174.89067,6,,0,,Pacific/Auckland
 9047,9047,Hutt Road (near 85),HuttRd (85),-41.22001190999999,174.8772834,4,,0,,Pacific/Auckland
 1626,1626,Winara Avenue (near 8),WinaraAve (8),-40.87849177999999,175.07086167,10,,0,,Pacific/Auckland
 7095,7095,Tukanae Street (near 11),TukanaeSt (11),-41.33326387999999,174.8192288,3,,0,,Pacific/Auckland
