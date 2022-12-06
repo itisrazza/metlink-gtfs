@@ -2576,7 +2576,7 @@ MELL,MELL,Melling Station,MellingStn,-41.20348555,174.90540041,4,,0,,Pacific/Auc
 9007,9007,Cuba Street opposite Heretaunga Street,CubaSt opp Heretaunga,-41.22672754,174.8852303,4,,0,,Pacific/Auckland
 9079,9079,Mulberry Street (near 80) (school stop),MulberrySt (80) (sch),-41.20997,174.887209,4,,0,,Pacific/Auckland
 8112,8112,Victoria Street (near 64),VictoriaSt (64),-41.21377101,174.8953549,4,,0,,Pacific/Auckland
-1004,1004,Paraparaumu Station - Stop A (Park and Ride),Paraparaumu Station - Stop A ,-40.91726124808597,175.00699578590977,9,,0,,Pacific/Auckland
+1004,1004,Paraparaumu Station - Stop A (Park and Ride),"Paraparaumu Station - Stop A ",-40.91726124808597,175.00699578590977,9,,0,,Pacific/Auckland
 1256,1256,Martin Road at Arnold Grove (near 17),MartinRd at Arnold (17),-40.88534755,174.9921766,9,,0,,Pacific/Auckland
 5332,5332,Karori - Karori Road,Karori-KaroriRd,-41.2883212,174.72390033,3,,0,,Pacific/Auckland
 7424,7424,Berhampore Shops - Adelaide Road,BerhamporeShops-AdelaideRd,-41.31962956999999,174.775241,2,,0,,Pacific/Auckland
@@ -2796,7 +2796,7 @@ NGAI1,NGAI1,Ngaio Station,NgaioStn,-41.25099113999999,174.77190448,3,,0,NGAI,
 9703,9703,Parkside Road at Hutt Park Road,ParksideRd at HuttPark,-41.23672139,174.9073537,4,,0,,Pacific/Auckland
 7272,7272,Awa Road at Para Street,AwaRd at ParaSt,-41.31315,174.82351,3,,0,,Pacific/Auckland
 7140,7140,Frobisher Street (near 24),FrobisherSt (24),-41.34216004999999,174.7627061,3,,0,,Pacific/Auckland
-2549,2549,The Companionway opposite Cannon Lane (school stop) ,TheCompanionway opp Cabin (sch),-41.11397,174.89067,6,,0,,Pacific/Auckland
+2549,2549,"The Companionway opposite Cannon Lane (school stop) ",TheCompanionway opp Cabin (sch),-41.11397,174.89067,6,,0,,Pacific/Auckland
 9047,9047,Hutt Road (near 85),HuttRd (85),-41.22001190999999,174.8772834,4,,0,,Pacific/Auckland
 1626,1626,Winara Avenue (near 8),WinaraAve (8),-40.87849177999999,175.07086167,10,,0,,Pacific/Auckland
 7095,7095,Tukanae Street (near 11),TukanaeSt (11),-41.33326387999999,174.8192288,3,,0,,Pacific/Auckland
