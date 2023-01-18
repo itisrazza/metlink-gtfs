@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Greater Wellington Regional Council,http://www.metlink.org.nz,en,20230104,20230128,Holiday Blocks_20221214-230747
+Greater Wellington Regional Council,http://www.metlink.org.nz,en,20230104,20230304,Holiday Blocks_20221214-230747
