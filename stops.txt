@@ -2946,7 +2946,6 @@ TREN,TREN,Trentham Station,TrenthamStn,-41.13787778999999,175.03843415,7/6,,1,,P
 9607,9607,Topaz Street opposite Pearl Grove,TopazSt opp Pearl,-41.09616247999999,175.1112908,7,,0,,Pacific/Auckland
 1955,1955,Masterton Intermediate School (school stop),MastertonIntSch (sch),-40.95724899999999,175.640656,14,,0,,Pacific/Auckland
 3837,3837,Raroa Intermediate - Haumia Street (school stop),RaroaInt-HaumiaSt (sch),-41.229616,174.801133,3,,0,,Pacific/Auckland
-X5119,X5119,Lennel Road at Lower Watt Street,DELETED,-41.264519,174.7801934,2,,0,,Pacific/Auckland
 8049,8049,Belmont Flat - Western Hutt Road (southbound),BelmontFlt-WesternHuttRd (s),-41.18699643,174.9346445,5,,0,,Pacific/Auckland
 1578,1578,Ngarara Road at Kohekohe Road (near 26) (school stop),NgararaRd at KoheKohe (26) (sch),-40.87629084999999,175.051478,10,,0,,Pacific/Auckland
 2627,2627,Penryn Drive (near 4) (hail and ride) (school stop),PenrynDr (4) (h/r) (sch),-41.09154556,174.87309508,6,,0,,Pacific/Auckland
